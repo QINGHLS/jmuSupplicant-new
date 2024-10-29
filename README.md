@@ -2,6 +2,8 @@
 
 原作者https://github.com/ShanQincheng/jmuSupplicant
 
+本文对原文配置进行修改，可以编译成功，减少了一些问题
+
 [![License](https://camo.githubusercontent.com/232bcc81505d2ff5c9a69601c5dafc4df8d24e6857c4538b1772f77ce6c306ab/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f6c2f72757374632d73657269616c697a652e737667)](https://raw.githubusercontent.com/ShanQincheng/jmuSupplicant/master/LICENSE)
 
 这是一个适用于集美大学的第三方锐捷认证客户端。关于实现此客户端的实现过程，可以参考[锐捷认证过程分析与第三方锐捷认证客户端的设计与实现](https://github.com/ShanQincheng/jmuSupplicant/blob/master/doc/锐捷认证过程分析与第三方锐捷认证客户端的设计与实现.pdf)
